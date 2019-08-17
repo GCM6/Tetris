@@ -3,7 +3,7 @@
 > A Vue.js project
 
 ## Build Setup
-
+## 基础架构已完成，游戏还有bug未修复，代码未分模块，等有时间继续更新代码
 ``` bash
 # install dependencies
 npm install
